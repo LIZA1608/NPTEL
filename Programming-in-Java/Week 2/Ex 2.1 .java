@@ -10,7 +10,6 @@ class School {
         } 
     } 
 } 
-
 public class Question211{ 
     public static void main(String[] args) { 
 	// Create an object of inner class Student
