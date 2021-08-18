@@ -1,4 +1,3 @@
-//To find the perimeter and area of a circle given a value of radius.
 import java.util.Scanner;  
 public class Exercise1_1 {
        public static void main(String[] args) {
